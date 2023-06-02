@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pramit Choudhury</h1>
+<h1 align="center">Hi 👋, I'm Ketan Vardekar</h1>
 
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Front-End developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.androidauthority.com/wp-content/uploads/2018/07/backend-developer-course.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramit0205" alt="pramit0205" /></a> </p>
 
-- 📫 How to reach me **pramitchoudhury0205@gmail.com**
+- 📫 How to reach me **vketan2188@gmail.com**
 
 - ⚡ Fun fact **I am funny!!**
 

@@ -1,4 +1,4 @@
-## Hi 👋, I'm Ketan <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
+## Hi 👋, I'm Ketan 
 
 
 - 🔭 I’m currently working as a Front-End Developer

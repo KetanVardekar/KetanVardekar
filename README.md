@@ -13,7 +13,7 @@
 
 - **Web Technologies**: `Html`,`Css`, `js`,`Angular`, `express`,`node`
 
-- **Database Technologies**: ` `MongoDB`
+- **Database Technologies**: `MongoDB`
 
 
 

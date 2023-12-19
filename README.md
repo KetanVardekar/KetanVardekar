@@ -11,9 +11,9 @@
 
 - **Languages**:  `JavaScript`, `TypeScript`
 
-- **Web Technologies**: `Html`,`Css`, `js`,`Angular`, `express`,`node`
+- **Web Technologies**: `Html`,`Css`, `js`,`Angular`, `express`,`nestJs`
 
-- **Database Technologies**: `MongoDB`
+- **Database Technologies**: `MongoDB`,PostgreSQL`
 
 
 

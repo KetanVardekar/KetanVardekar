@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Ketan 
 
 
-- 🔭 I’m currently working as a Front-End Developer
+- 🔭 I have experience working as a frontend developer specializing in Angular. Currently, I am engaged in projects involving NestJS, PostgreSQL, and various AWS services.
 - 😄 Pronouns: He/Him
 
 <br>

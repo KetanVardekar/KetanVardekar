@@ -14,6 +14,7 @@ I am a fullstack developer from India 🇮🇳 I am working as a Full Stack Deve
 <a href="" title="PostgreSQL" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Prisma" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="NestJs" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
 ### I have also worked with ...
 
 <a href="" title="Angular" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
